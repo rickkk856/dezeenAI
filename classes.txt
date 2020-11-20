@@ -1,0 +1,57 @@
+KITCHEN/DINING ROOM
+- cupboard
+- kitchen island
+- stove
+- table
+- worktop
+- fridge
+- oven
+- extractor hood
+- dishwasher
+- cabinets
+
+LIVING ROOM
+- chair
+- sofa
+- armchair
+- TV stand
+- coffee/side table
+- shelving
+- display cabinet
+- rug
+- pendant/standing/wall/table lamp
+- curtain
+- chair
+- footstools & pouffes
+
+OFFICE
+- desk
+- bookcase
+- office chair
+
+BEDROOM
+- bed
+- wardrobe
+- drawer
+- dressing table
+- bedside table
+- hanger
+
+ARCHITECTURE
+- window
+- door
+- balustrade
+- pot plant
+- lighting
+- painting/picture
+
+BATHROOM
+- toilet
+- basin
+- urinal
+- bathtub
+- mirror
+- sink
+- tap
+- shower
+- washing machine
