@@ -1,56 +1,120 @@
 KITCHEN/DINING ROOM
 - cupboard
+- cabinetry
 - kitchen island
 - stove
 - table
-- worktop
-- fridge
+- countertop
+- refrigerator
+- kitchen appliances
+- kitchenware
 - oven
+- billiard table
+- bicycle
+- bottle
+- bowl
+- box
+- chest of drawers
+- candle
+- ceiling fan
 - extractor hood
 - dishwasher
-- cabinets
+- closet
+- cat furniture
+- clock / digital clock
+- computer keyboard, mouse, monitor
+- cosmetics
+- cutting board
+- dog, cat
+- drawer
+- filing cabinet
+- fireplace
+- flower, flowerpot
+- hand dryer
+- heater
+- home appliance
+- houseplant
+- infant bed
+- jacuzzi
+- kitchen knife
+- knife
+- ladder
+- kettle
+- laptop
+- lantern
+- mechanical fan
+- microwave oven
+- musical instrument, musical keyboard
+- piano
+- pillow
+- poster
+- power plugs and sockets
+- sculpture
+- soap dispenser
+- stairs
+- studio couch
+- swimming pool
+- toilet
+- towel
+- wall clock
+- waste container
+- wood burning stove
 
 LIVING ROOM
 - chair
-- sofa
+- sofa bed
+- bench
 - armchair
 - TV stand
+- television
 - coffee/side table
-- shelving
-- display cabinet
+- tableware
+- shelf
+- bookcase
+- cabinetry
 - rug
 - pendant/standing/wall/table lamp
+- light bulb
 - curtain
-- chair
+- stool
 - footstools & pouffes
 
 OFFICE
 - desk
 - bookcase
+- office supplies
 - office chair
 
 BEDROOM
 - bed
+- dog bed
 - wardrobe
 - drawer
 - dressing table
-- bedside table
+- nightstand
 - hanger
 
 ARCHITECTURE
 - window
+- light switch
 - door
+- door hand;e
 - balustrade
-- pot plant
+- flowerpot
 - lighting
+- window blind
 - painting/picture
+- picture frame
 
 BATHROOM
 - toilet
 - basin
 - urinal
 - bathtub
+- bathroom accessory
+- bidet
 - mirror
+- bathroom cabinet
 - sink
 - tap
 - shower
