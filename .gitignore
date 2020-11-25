@@ -2,3 +2,5 @@ darknet/
 data/
 OIDv4_ToolKit/
 dezeenAI
+files/yolov4.conv.137
+classes.gsheet
