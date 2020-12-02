@@ -1,14 +1,14 @@
 [
 {
  "frame_id":1, 
- "filename":"/mydrive/test.jpg", 
+ "filename":"/mydrive/files/test.jpg", 
  "objects": [ 
-  {"class_id":73, "name":"book", "relative_coordinates":{"center_x":0.589929, "center_y":0.921855, "width":0.173728, "height":0.158254}, "confidence":0.960241}, 
-  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.122806, "center_y":0.612852, "width":0.246578, "height":0.610853}, "confidence":0.958606}, 
-  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.958916, "center_y":0.587221, "width":0.075013, "height":0.087860}, "confidence":0.838995}, 
-  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.955482, "center_y":0.334248, "width":0.088460, "height":0.192717}, "confidence":0.563058}, 
-  {"class_id":57, "name":"sofa", "relative_coordinates":{"center_x":0.919891, "center_y":0.800242, "width":0.161990, "height":0.406231}, "confidence":0.921517}, 
-  {"class_id":16, "name":"dog", "relative_coordinates":{"center_x":0.266689, "center_y":0.865988, "width":0.294180, "height":0.127781}, "confidence":0.974307}
+  {"class_id":73, "name":"book", "relative_coordinates":{"center_x":0.589928, "center_y":0.921853, "width":0.173729, "height":0.158258}, "confidence":0.960262}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.122804, "center_y":0.612843, "width":0.246565, "height":0.610898}, "confidence":0.958585}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.958916, "center_y":0.587220, "width":0.075023, "height":0.087851}, "confidence":0.838959}, 
+  {"class_id":58, "name":"pottedplant", "relative_coordinates":{"center_x":0.955483, "center_y":0.334246, "width":0.088457, "height":0.192724}, "confidence":0.563110}, 
+  {"class_id":57, "name":"sofa", "relative_coordinates":{"center_x":0.919892, "center_y":0.800236, "width":0.162001, "height":0.406255}, "confidence":0.921518}, 
+  {"class_id":16, "name":"dog", "relative_coordinates":{"center_x":0.266690, "center_y":0.865992, "width":0.294175, "height":0.127792}, "confidence":0.974311}
  ] 
 }
 ]
