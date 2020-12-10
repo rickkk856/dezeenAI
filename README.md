@@ -1,4 +1,4 @@
-# dezeenAI
+# dezeenAI (in progress)
 **Search Dezeen.com interior library for specific objects and colours**
 
 *by Adam Siemaszkiewicz*
