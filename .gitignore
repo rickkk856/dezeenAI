@@ -4,11 +4,14 @@ data/
 OIDv4_ToolKit/
 files/yolov4.conv.137
 files/articles.pkl
-<<<<<<< HEAD
 files/df_articles-images.pkl
-=======
->>>>>>> 12b545cc2e9bd62e03053700c13575424dde5ee0
+files/df_images-colours.pkl
 files/images.csv
 files/tmp/
 dezeenAI
 classes.gsheet
+
+files/df_articles.csv
+files/df_articles-images.pkl
+files/df_articles-images-downloaded.csv
+files/df_images-colours.pkl
