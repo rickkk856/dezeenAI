@@ -3,7 +3,8 @@
 
 *by Adam Siemaszkiewicz*
 
-[Try it out!](https://dezeenai.herokuapp.com/)
+# [Try the app online!](https://dezeenai.herokuapp.com/)
+The proof-of-work version of the search engine is now available on Heroku. Feel free to play with it!
 
 # Summary
 
